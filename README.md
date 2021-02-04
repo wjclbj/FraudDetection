@@ -1,3 +1,5 @@
+If jupyter notebook cannot be reviewed, please try paste the link into https://nbviewer.jupyter.org/.
+
 # FraudDetection
 Fraud Detection using both supervised/unsupervised learning
 
